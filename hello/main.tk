@@ -1,1 +1,2 @@
-print("Hi")
+fn hi():
+  print("Hi")
