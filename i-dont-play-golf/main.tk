@@ -1,0 +1,3 @@
+fn idpg(rep):
+    for number in rep:
+        print("i don't play golf")
